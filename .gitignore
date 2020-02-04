@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vim
+# swap
+.sw[a-p]
+.*.sw[a-p]
+
+# Thumbnails
+._*
